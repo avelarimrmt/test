@@ -1,0 +1,1043 @@
+@media (max-width: 321px) {
+    #promo.container-fluid {
+        background: url(../images/320.jpg) no-repeat;
+        background-size: cover;
+    }
+
+    h1 {
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 36px;
+        padding-bottom: 21px;
+        padding-top: 219px;
+    }
+
+    h2 {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 21px;
+    }
+
+    .btn-submit, .btn-navbar {
+        line-height: 20px;
+        font-size: 15px;
+        padding: 14px 57px;
+    }
+
+    .scroll-down-btn {
+        width: 6em;
+        height: 3em;
+    }
+
+    .collapse {
+        background: transparent linear-gradient(143deg, #42516E 0%, #172135 100%) 0 0 no-repeat padding-box;
+    }
+
+    .title-block {
+        font-size: 30px;
+        line-height: 40px;
+        font-weight: 600;
+    }
+
+    .title-benefit {
+        padding-top: 70px;
+        padding-bottom: 40px;
+    }
+
+    .benefit_icon {
+        width: 100px;
+        height: 100px;
+        margin-bottom: 10px;
+    }
+
+    .benefit_text {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .col-benefits {
+        margin-bottom: 100px;
+    }
+
+    #advertisement .container {
+        padding-bottom: 100px;
+    }
+
+    .title-adv {
+        padding-bottom: 48px;
+        padding-top: 70px;
+    }
+
+    .desc-adv {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .list-items {
+        margin-top: 25px;
+    }
+
+    .item_text {
+        line-height:  28px;
+        font-size: 18px;
+    }
+
+    .placement-blocks {
+        padding-top: 100px;
+    }
+
+    .placement-title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .placement-text {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 100px;
+    }
+
+    .footer-title {
+        padding-top: 66px;
+        padding-bottom: 62px;
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .copyright {
+        padding-top: 73px;
+    }
+
+    #navbarDropdown {
+        font-size: 16px;
+        margin-left: 1.75rem;
+        padding: 0 1.75rem;
+    }
+}
+
+@media (min-width: 321px) {
+    #promo.container-fluid {
+        background: url(../images/410.jpg) no-repeat;
+    }
+
+    h1 {
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 36px;
+        padding-bottom: 20px;
+        padding-top: 216px;
+    }
+
+    h2 {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 18px;
+    }
+
+    .btn-submit, .btn-navbar {
+        line-height: 20px;
+        font-size: 15px;
+        padding: 19px 58px;
+    }
+
+    .scroll-down-btn {
+        width: 7em;
+        height: 3.5em;
+    }
+
+    .collapse {
+        background: transparent linear-gradient(143deg, #42516E 0%, #172135 100%) 0 0 no-repeat padding-box;
+    }
+
+    .title-block {
+        font-size: 30px;
+        line-height: 40px;
+        font-weight: 600;
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+    .benefit_icon {
+        width: 100px;
+        height: 100px;
+        margin-bottom: 10px;
+    }
+
+    .benefit_text {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .col-benefits {
+        margin-bottom: 100px;
+    }
+
+    #advertisement .container {
+        padding-bottom: 100px;
+    }
+
+    .desc-adv {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .list-items {
+        margin-top: 30px;
+    }
+
+    .item_text {
+        line-height: 28px;
+        font-size: 18px;
+    }
+
+    .placement-blocks {
+        padding-top: 100px;
+    }
+
+    .placement-title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .placement-text {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 100px;
+    }
+
+    .footer-title {
+        padding-top: 58px;
+        padding-bottom: 83px;
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .copyright {
+        padding-top: 106px;
+    }
+
+    #navbarDropdown {
+        font-size: 16px;
+        margin-left: 1.75rem;
+        padding: 0 1.75rem;
+    }
+}
+
+@media (min-width: 411px)   {
+    #promo.container-fluid {
+        background: url(../images/760.jpg) no-repeat;
+    }
+
+    h1 {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 36px;
+        padding-bottom: 20px;
+        padding-top: 98px;
+    }
+
+    h2 {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 18px;
+    }
+
+    .btn-submit, .btn-navbar {
+        line-height: 20px;
+        font-size: 15px;
+        padding: 15px 35px;
+    }
+
+    .collapse {
+        background: transparent linear-gradient(143deg, #42516E 0%, #172135 100%) 0 0 no-repeat padding-box;
+    }
+
+    .title-block {
+        padding-top: 80px;
+        padding-bottom: 55px;
+        font-size: 30px;
+        line-height: 40px;
+        font-weight: 600;
+    }
+
+    .benefit_icon {
+        width: 100px;
+        height: 100px;
+        margin-bottom: 20px;
+    }
+
+    .benefit_text {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .col-benefits {
+        margin-bottom: 100px;
+    }
+
+    #advertisement .container {
+        padding-bottom: 100px;
+    }
+
+    .desc-adv {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .list-items {
+        margin-top: 60px;
+    }
+
+    .item_text {
+        line-height: 28px;
+        font-size: 18px;
+    }
+
+    .placement-blocks {
+        padding-top: 100px;
+    }
+
+    .placement-title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .placement-text {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 100px;
+    }
+
+    .footer-title {
+        padding-top: 100px;
+        padding-bottom: 62px;
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .copyright {
+        padding-top: 100px;
+    }
+}
+
+@media (max-width: 767px) {
+    header .nav-item {
+        font-size: 16px;
+    }
+
+    .btn-navbar {
+        padding: 15px 30px;
+    }
+}
+
+@media (min-width: 768px)  {
+    #promo.container-fluid {
+        background: url(../images/1024.jpg) no-repeat;
+    }
+
+    .link-black {
+        color: #000000 !important;
+    }
+
+    .collapse {
+        background: transparent;
+    }
+
+    h1 {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 36px;
+        padding-bottom: 20px;
+        padding-top: 108px;
+    }
+
+    h2 {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .btn-submit, .btn-navbar {
+        line-height: 20px;
+        font-size: 11px;
+        padding: 12px 35px;
+    }
+
+    .btn-submit {
+        margin-bottom: 5px !important;
+        font-size: 14px;
+    }
+
+    .btn-navbar {
+        padding: 12px 7px;
+    }
+
+    header .nav-item {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    #navbarDropdown {
+        font-size: 10px;
+        margin-left: 1.75rem;
+        padding: 0 1.55rem;
+    }
+
+    .title-block {
+        padding-top: 100px;
+        font-size: 30px;
+        line-height: 40px;
+        font-weight: 600;
+    }
+
+    .title-benefit {
+        padding-bottom: 50px;
+    }
+
+    .benefit_icon {
+        width: 100px;
+        height: 100px;
+    }
+
+    .benefit_text {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .col-benefits {
+        margin-bottom: 100px;
+    }
+
+    #advertisement .container {
+        padding-bottom: 134px;
+    }
+
+    .title-adv {
+        padding-bottom: 25px;
+    }
+
+    .desc-adv {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .list-items {
+        margin-top: 100px;
+    }
+
+    .item_text {
+        line-height: 28px;
+        font-size: 18px;
+    }
+
+    .placement-blocks {
+        padding-top: 100px;
+    }
+
+    .placement-title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .placement-text {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 100px;
+    }
+
+    .footer-title {
+        padding-top: 100px;
+        padding-bottom: 53px;
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .copyright {
+        padding-top: 94px;
+    }
+}
+
+@media (min-width: 992px) {
+
+    h1 {
+        padding-bottom: 40px;
+    }
+
+    .btn-submit, .btn-navbar {
+        font-size: 15px;
+        padding: 15px 35px;
+    }
+
+    .btn-submit {
+        margin-bottom: 20px !important;
+    }
+
+    header .nav-item {
+        font-size: 16px;
+    }
+
+    #navbarDropdown {
+        font-size: 14px;
+        margin-left: 2.7rem;
+        padding: 0.4rem 3.5rem;
+    }
+
+    .scroll-down-btn {
+        width: 10em;
+        height: 5em;
+    }
+}
+
+@media (min-width: 1025px) {
+    #promo.container-fluid {
+        background: url(../images/1280.jpg) no-repeat;
+    }
+}
+
+@media (min-width: 1200px) {
+    #promo.container-fluid {
+        background: url(../images/1280.jpg) no-repeat;
+    }
+
+    .link-black {
+        color: #000000 !important;
+    }
+
+    .collapse {
+        background: transparent;
+    }
+
+    h1 {
+        font-weight: 700;
+        font-size: 44px;
+        line-height: 64px;
+        padding-bottom: 44px;
+        padding-top: 141px;
+    }
+
+    h2 {
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 30px;
+        margin-bottom: 36px;
+    }
+
+    .btn-submit, .btn-navbar {
+        line-height: 20px;
+        font-size: 18px;
+        padding: 19px 45px;
+    }
+
+    header .nav-item {
+        font-size: 18px;
+        line-height: 42px;
+    }
+
+    #navbarDropdown {
+        font-size: 16px;
+        margin-left: 5.3rem;
+        padding: 0.4rem 3.5rem;
+    }
+
+    .title-block {
+        font-weight: 700;
+    }
+
+    .title-benefit {
+        padding-top: 100px;
+        padding-bottom: 60px;
+        font-size: 44px;
+        line-height: 64px;
+    }
+
+    .benefit_icon {
+        width: 130px;
+        height: 130px;
+    }
+
+    .benefit_text {
+        font-size: 20px;
+        line-height: 32px;
+    }
+
+    .col-benefits {
+        margin-bottom: 100px;
+    }
+
+    #advertisement .container {
+        padding-bottom: 84px;
+    }
+
+    .title-adv {
+        padding-bottom: 28px;
+        padding-top: 127px;
+        font-size: 34px;
+        line-height: 46px;
+    }
+
+    .desc-adv {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .list-items {
+        margin-top: 100px;
+    }
+
+    .item_text {
+        line-height: 28px;
+        font-size: 18px;
+    }
+
+    .placement-blocks {
+        padding-top: 100px;
+    }
+
+    .placement-title {
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .placement-text {
+        font-size: 20px;
+        line-height: 34px;
+        margin-bottom: 100px;
+    }
+
+    .footer-title {
+        padding-top: 100px;
+        padding-bottom: 93px;
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .copyright {
+        padding-top: 105px;
+    }
+}
+
+@media (min-width: 1281px) {
+    #promo.container-fluid {
+        background: url(../images/1920.jpg) no-repeat;
+        background-size: cover;
+    }
+
+    .link-black {
+        color: #000000 !important;
+    }
+
+    .collapse {
+        background: transparent;
+    }
+
+    header .nav-item {
+        font-size: 18px;
+        line-height: 42px;
+    }
+
+    #navbarDropdown {
+        font-size: 16px;
+        margin-left: 5.3rem;
+        padding: 0.4rem 3.5rem;
+    }
+
+    .benefit_icon {
+        margin-right: 20px;
+        width: 130px;
+        height: 130px;
+    }
+
+    .title-block {
+        padding-top: 140px;
+        font-weight: 700;
+    }
+
+    .title-benefit {
+        padding-bottom: 153px;
+        font-size: 54px;
+        line-height: 74px;
+    }
+
+    .benefit_icon {
+        width: 130px;
+        height: 130px;
+    }
+
+    .benefit_text {
+        font-size: 22px;
+        line-height: 34px;
+    }
+
+    .col-benefits {
+        margin-bottom: 179px;
+    }
+
+    #advertisement .container {
+        padding-bottom: 139px;
+    }
+
+    .title-adv {
+        padding-bottom: 40px;
+        font-size: 44px;
+        line-height: 64px;
+    }
+
+    .desc-adv {
+        font-size: 22px;
+        line-height: 34px;
+    }
+
+    .list-items {
+        margin-top: 140px;
+    }
+
+    .item_text {
+        line-height: 30px;
+        font-size: 20px;
+    }
+
+    .placement-blocks {
+        padding-top: 174px;
+    }
+
+    .placement-title {
+        font-size: 44px;
+        line-height: 69px;
+    }
+
+    .placement-text {
+        font-size: 24px;
+        line-height: 44px;
+        margin-bottom: 150px;
+    }
+
+    .footer-title {
+        padding-top: 140px;
+        padding-bottom: 60px;
+        font-size: 54px;
+        line-height: 76px;
+    }
+
+    .copyright {
+        padding-top: 185px;
+    }
+}
+
+body {
+    font-family: Lato, serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar-light {
+    background:transparent;
+    border:none !important;
+    opacity: 1;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #FFFFFF;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #FFFFFF;
+}
+
+.navbar-custom {
+    background: #FFFFFF;
+    transition: all .3s;
+    box-shadow: 0px 3px 16px #00000029;
+}
+
+header .nav-item {
+    letter-spacing: 0;
+    padding: 2rem 1.5rem;
+    opacity: 1;
+}
+
+
+#navbarDropdown {
+    border: 1px solid #FFFFFF;
+    border-radius: 4px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+header .nav-item .menu-item::after {
+    content: '';
+    display: block;
+    background-color: #E31D24;
+    height: 2px;
+    width: 100%;
+    transform: scale(0);
+    transition: all  .3s;
+}
+
+header .nav-item .menu-item:hover::after {
+    transform: scale(1);
+}
+
+h1 {
+    color: #ffffff;
+    letter-spacing: 0;
+    text-shadow: 0 3px 20px #2B1DE829;
+}
+
+h2 {
+    color: #ffffff;
+    letter-spacing: 0;
+}
+
+.btn-submit {
+    background: #E31D24 0 0 no-repeat padding-box;
+    border-radius: 4px;
+    border: none;
+    opacity: 1;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+.btn:active, .btn:focus {box-shadow: none;}
+
+.btn-danger, .btn-danger:active, .btn-danger:focus {
+    box-shadow: 0 15px 10px -10px rgba(227, 29, 36, 0.4);
+}
+
+.btn-navbar {
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.btn-navbar:hover {
+    color: #FFFFFF !important;
+}
+
+.btn-submit:hover {
+    background: #C21831 ;
+}
+
+.scroll-down-btn {
+    border: 2px solid #FFFFFF;
+    border-bottom: none;
+    background: #FFFFFF1A 0 0 no-repeat padding-box;
+    border-radius: 50% 50% 0 0 / 90% 90% 0 0;
+    opacity: 0.3;
+    transition: all  .3s;
+}
+
+.scroll-down-btn:hover {
+    opacity: 1;
+}
+
+.title-block {
+    color: #182438;
+    opacity: 0.8;
+    text-shadow: none;
+}
+
+.benefit {
+    margin-bottom: 120px;
+}
+
+.benefit_icon {
+    margin-right: 20px;
+}
+
+.benefit_text {
+    letter-spacing: 0;
+    color: #182438;
+    opacity: 0.8;
+    margin: 0;
+    font-weight: 600;
+}
+
+#advertisement {
+    background: linear-gradient(219deg, rgba(66, 81, 110, 0.0225), rgba(23, 33, 53, 0.05));
+    background: -webkit-linear-gradient(219deg, rgba(66, 81, 110, 0.0225), rgba(23, 33, 53, 0.05));
+}
+
+.title-adv {
+    opacity: 0.8;
+}
+
+.desc-adv {
+    font-weight: 500;
+    letter-spacing: 0;
+    color: #182438;
+    opacity: 0.8;
+}
+
+.list-items {
+    background: #FFFFFF 0 0 no-repeat padding-box;
+    border-radius: 15px;
+    opacity: 1;
+    box-shadow: 4px 4px 36px rgba(68, 79, 102, 0.24);
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 26px;
+}
+
+.item {
+    margin-bottom: 34px;
+}
+
+.item-icon {
+    margin-right: 10px;
+    width: 22px;
+    height: 22px;
+}
+
+.item_text {
+    font-weight: 500;
+    line-height:  30px;
+    font-size: 20px;
+    letter-spacing: 0;
+    color: #182438;
+    opacity: 1;
+    margin: 0;
+}
+
+.placement-icon {
+    margin-bottom: 40px;
+}
+
+.placement-title {
+    font-weight: 600;
+    color: #182438;
+    opacity: 0.78;
+}
+
+hr {
+    border: none;
+    color: #E31D24;
+    opacity: 1;
+    height: 4px;
+    width: 95px;
+    margin-bottom: 40px;
+}
+
+.placement-text {
+    font-weight: 400;
+    color: #182438;
+    opacity: 0.54;
+}
+
+footer {
+    background: transparent linear-gradient(113deg, #42516E 0%, #172135 100%);
+}
+
+.footer-title {
+    letter-spacing: 0;
+    text-shadow: none;
+    font-weight: 600;
+}
+
+.copyright {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+    padding-bottom: 45px;
+}
+
+.copyright-link {
+    color: rgba(255, 255, 255, 0.54);
+}
+
+.copyright-link a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.54);
+}
+
+.copyright-link a:hover {
+    text-decoration: underline;
+    color: rgba(255, 255, 255, 1);
+}
+
+#myModal {
+    box-shadow: 0 0 34px rgba(68, 79, 102, 1);
+}
+
+.modal-dialog {
+    background: transparent linear-gradient(137deg, #42516E 0%, #172135 100%);
+}
+
+.modal-title {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 44px;
+    letter-spacing: 0;
+    color: #ffffff;
+    opacity: 1;
+}
+
+.close {
+    font-size: 54px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-weight: 400;
+}
+
+.close:hover {
+    color: #FFFFFF;
+}
+
+.close:active, .close:focus {
+    outline: none;
+}
+
+.modal-dialog {
+    height: 100vh;
+}
+
+.modal-content {
+    height: 100%;
+    background: transparent linear-gradient(137deg, #42516E 0%, #172135 100%) 0 0 no-repeat padding-box;
+}
+
+.modal-header {
+    border-bottom: none;
+}
+.modal-body {
+    padding-top: 73px;
+}
+
+.modal-footer {
+    border-top: none;
+}
+
+.form-group input {
+    background: transparent;
+    border-style: none;
+    border-bottom: 1px solid #FFFFFF;
+    margin-bottom: 70px;
+    text-align: left;
+    font-weight: 400;
+    font-size: 24px;
+    line-height:  44px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+input {outline:none;}
+input::-moz-placeholder { color: #FFFFFF; }
+input::-webkit-input-placeholder { color: #FFFFFF; }
